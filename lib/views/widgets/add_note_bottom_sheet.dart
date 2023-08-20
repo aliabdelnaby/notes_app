@@ -5,7 +5,7 @@ import 'package:notes_app/cubits/add_note_cubit/add_note_cubit.dart';
 import 'add_note_form.dart';
 
 class AddNoteBottomSheet extends StatelessWidget {
-   AddNoteBottomSheet({super.key});
+   const AddNoteBottomSheet({super.key});
 
   @override
   Widget build(BuildContext context) {
